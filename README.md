@@ -1,5 +1,8 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ HEADER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20,22&height=280&section=header&text=Sanchit%20Singh&fontSize=70&fontColor=c0caf5&animation=twinkling&fontAlignY=40&desc=Mobile%20App%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Android&descSize=20&descAlignY=62&descColor=7aa2f7&stroke=7aa2f7&strokeWidth=2" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/header.svg" width="100%" alt="Sanchit Singh Animated Header"/>
+</p>
+
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TYPING ANIMATION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
