@@ -1,6 +1,6 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ HEADER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/header.svg" width="100%" alt="Sanchit Singh Animated Header"/>
+  <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/header.svg?v=1.1" width="100%" alt="Sanchit Singh Animated Header"/>
 </p>
 
 
