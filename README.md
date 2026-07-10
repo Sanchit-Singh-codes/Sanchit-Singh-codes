@@ -114,21 +114,15 @@ class SanchitSingh extends Developer {
 
 ## 📊 GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sanchit-Singh-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=7aa2f7&icon_color=bb9af7&title_color=7aa2f7&text_color=c0caf5&count_private=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-Singh-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=a9b1d6" width="100%" alt="Streak Stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-Singh-codes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&layout=compact&langs_count=10&card_width=680" width="76%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanchit-Singh-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=7aa2f7&icon_color=bb9af7&title_color=7aa2f7&text_color=c0caf5&count_private=true&rank_icon=github" height="195" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Sanchit-Singh-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=a9b1d6" height="195" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-Singh-codes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5&layout=compact&langs_count=10&card_width=700" alt="Top Languages"/>
+</p>
 
 <br/>
 
@@ -151,7 +145,7 @@ class SanchitSingh extends Developer {
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanchit-Singh-codes&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=14&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanchit-Singh-codes&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=14&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </p>
 
 <br/>
