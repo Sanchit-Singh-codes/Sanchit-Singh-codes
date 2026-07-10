@@ -178,21 +178,27 @@ class SanchitSingh extends Developer {
 
 ## 🌐 Connect With Me
 
+<!-- Animated floating card panel -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/connect.svg" width="100%" alt="Connect With Sanchit Singh"/>
+</p>
+
+<!-- Clickable links -->
 <p align="center">
   <a href="https://linkedin.com/in/sanchit-singh25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="28"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/sanc.hit_25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%20Follow-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" height="28"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:sanchitsingh78034@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%20Message-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" height="28"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Sanchit-Singh-codes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%20Follow-8b5cf6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" height="28"/>
   </a>
 </p>
 
