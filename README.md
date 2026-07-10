@@ -178,28 +178,31 @@ class SanchitSingh extends Developer {
 
 ## 🌐 Connect With Me
 
-<!-- Animated floating card panel -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/connect.svg" width="100%" alt="Connect With Sanchit Singh"/>
-</p>
-
-<!-- Clickable links -->
-<p align="center">
-  <a href="https://linkedin.com/in/sanchit-singh25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/sanc.hit_25" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%20Follow-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sanchitsingh78034@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%20Message-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" height="28"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Sanchit-Singh-codes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%20Follow-8b5cf6?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" height="28"/>
-  </a>
+  <table border="0" align="center" cellspacing="8" cellpadding="0">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/sanchit-singh25" target="_blank">
+          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-linkedin.svg" height="215" alt="LinkedIn — sanchit-singh25"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://instagram.com/sanc.hit_25" target="_blank">
+          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-instagram.svg" height="215" alt="Instagram — @sanc.hit_25"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:sanchitsingh78034@gmail.com">
+          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-gmail.svg" height="215" alt="Gmail — sanchitsingh78034@gmail.com"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sanchit-Singh-codes" target="_blank">
+          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-github.svg" height="215" alt="GitHub — Sanchit-Singh-codes"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <br/>
