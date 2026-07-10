@@ -179,30 +179,18 @@ class SanchitSingh extends Developer {
 ## 🌐 Connect With Me
 
 <p align="center">
-  <table border="0" align="center" cellspacing="8" cellpadding="0">
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/sanchit-singh25" target="_blank">
-          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-linkedin.svg" height="215" alt="LinkedIn — sanchit-singh25"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/sanc.hit_25" target="_blank">
-          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-instagram.svg" height="215" alt="Instagram — @sanc.hit_25"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:sanchitsingh78034@gmail.com">
-          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-gmail.svg" height="215" alt="Gmail — sanchitsingh78034@gmail.com"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Sanchit-Singh-codes" target="_blank">
-          <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-github.svg" height="215" alt="GitHub — Sanchit-Singh-codes"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://linkedin.com/in/sanchit-singh25" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-linkedin.svg" width="180" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sanc.hit_25" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-instagram.svg" width="180" alt="Instagram"/>
+  </a>
+  <a href="mailto:sanchitsingh78034@gmail.com">
+    <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-gmail.svg" width="180" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/919555954884" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sanchit-Singh-codes/Sanchit-Singh-codes/main/card-whatsapp.svg" width="180" alt="WhatsApp"/>
+  </a>
 </p>
 
 <br/>
